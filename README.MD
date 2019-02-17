@@ -14,6 +14,5 @@
 ## Download and usage:
 
  - Clone this repository or download the Zip file and extract it into a folder.
- - open MatrixLogForNet.sln file using visual studio, and run the application.
-	- You can run the application without visual studio using the MatrixLogForNet.exe located in [MatrixLogForNet\bin\Debug](https://github.com/karnafun/log4net/tree/master/MatrixLogForNet/bin/Debug) folder
+ - open MatrixLogForNet.sln file using visual studio, and run the application using F5.	
  - Log file will be saved in the same location as the [MatrixLogForNet.exe file](https://github.com/karnafun/log4net/blob/master/MatrixLogForNet/bin/Debug/MatrixLogForNet.exe) 
