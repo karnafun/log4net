@@ -1,0 +1,10 @@
+C:\Users\Karnafun\source\repos\MatrixLogForNet\MatrixLogForNet\obj\Debug\MatrixLogForNet.csprojAssemblyReference.cache
+C:\Users\Karnafun\source\repos\MatrixLogForNet\MatrixLogForNet\obj\Debug\MatrixLogForNet.csproj.CoreCompileInputs.cache
+C:\Users\Karnafun\source\repos\MatrixLogForNet\MatrixLogForNet\bin\Debug\MatrixLogForNet.exe.config
+C:\Users\Karnafun\source\repos\MatrixLogForNet\MatrixLogForNet\bin\Debug\MatrixLogForNet.exe
+C:\Users\Karnafun\source\repos\MatrixLogForNet\MatrixLogForNet\bin\Debug\MatrixLogForNet.pdb
+C:\Users\Karnafun\source\repos\MatrixLogForNet\MatrixLogForNet\bin\Debug\log4net.dll
+C:\Users\Karnafun\source\repos\MatrixLogForNet\MatrixLogForNet\bin\Debug\log4net.xml
+C:\Users\Karnafun\source\repos\MatrixLogForNet\MatrixLogForNet\obj\Debug\MatrixLogForNet.csproj.CopyComplete
+C:\Users\Karnafun\source\repos\MatrixLogForNet\MatrixLogForNet\obj\Debug\MatrixLogForNet.exe
+C:\Users\Karnafun\source\repos\MatrixLogForNet\MatrixLogForNet\obj\Debug\MatrixLogForNet.pdb
