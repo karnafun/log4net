@@ -15,9 +15,6 @@ namespace MatrixLogForNet
 {
     class Program
     {
-        //Using reflection to get Program.cs name for the logger
-        // private static readonly log4net.ILog log = log4net.LogManager.GetLogger(
-        //   System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
         private static readonly log4net.ILog log = log4net.LogManager.GetLogger("program.cs");
 
         
